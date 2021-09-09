@@ -5,3 +5,4 @@ directory->local repository(.git folder)
 current directory->staging area->local git repository
                 add           commit
 staging area -> comparision happens here, computation
+hey i am from india
