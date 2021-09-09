@@ -1,0 +1,7 @@
+hey i am from banglore, my name is rashmitha
+working:
+directory->local repository(.git folder)
+               add file to local repository.
+current directory->staging area->local git repository
+                add           commit
+staging area -> comparision happens here, computation
