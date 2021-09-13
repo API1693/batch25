@@ -8,5 +8,10 @@ staging area -> comparision happens here, computation
 hey i am from india
 
 hey i was added from remote repository
+<<<<<<< HEAD
  hey i am from apisero
+hey i am new
+=======
+
+>>>>>>> 200b193643d635ea67eadc55cdaaf97cc6b8bdad
 
